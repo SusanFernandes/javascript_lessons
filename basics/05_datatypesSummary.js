@@ -40,3 +40,13 @@ const myFunction = function(){
 console.log(typeof bigNumber)
 console.log(typeof myFunction)
 console.log(typeof outsideTemperature)  // typeof null is 'object'
+
+
+//Two type of memory: stack memory & heap memory
+/*
+stack => primitive
+any variable you get the copy 
+heap => non primitive
+works through reference of original value : change in the actual values
+
+*/
